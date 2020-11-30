@@ -1,2 +1,2 @@
-##Hello U+1F44B   
+##Hello    
 Under Construction ;-)
